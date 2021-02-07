@@ -1,0 +1,1 @@
+var API_ENDPOINT_URL_STR = "https://xrmviuvo7a.execute-api.us-east-1.amazonaws.com/Theta/";
